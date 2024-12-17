@@ -58,7 +58,7 @@ class _ChatBotState extends State<ChatBot> {
                     color: Colors.black,
                   ),
                   onPressed: () {
-                    Navigator.pushNamed(context, '/Profile');
+                    Navigator.pushNamed(context,'/Profile');
                   },
                 ),
                 const Text(
